@@ -8,7 +8,7 @@ Front End
 
 Back End
 
-<img src="https://banner2.cleanpng.com/20180410/qgw/kisspng-node-js-javascript-database-mongodb-native-5acd4ebf6b4b75.3634484415234044794395.jpg" alt="Node JavaScript" width="80"/>  <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F359%2Ffull%2Fexpressjslogo.png&w=384&q=75" alt="JavaScript" width="80"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png" alt="JavaScript" width="80"/>  
+<img src="https://img2.freepng.fr/20180619/vjl/kisspng-node-js-angularjs-react-javascript-npm-node-js-5b28f6111cb2c9.1605132215294110891176.jpg" alt="Node JavaScript" width="80"/>  <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F359%2Ffull%2Fexpressjslogo.png&w=384&q=75" alt="JavaScript" width="80"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png" alt="JavaScript" width="80"/>  
 
 Database
 
