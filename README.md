@@ -8,7 +8,8 @@ Front End
 
 Back End
 
-<img src="https://www.jeffphoto.fr/wp-content/uploads/2021/12/kisspng-node-js-angularjs-react-javascript-npm-node-js-5b28f6115bff48.9101113415294110893768.png" alt="Node JavaScript" width="80"/>  <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F359%2Ffull%2Fexpressjslogo.png&w=384&q=75" alt="JavaScript" width="80"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png" alt="JavaScript" width="80"/>  
+<img src="https://www.jeffphoto.fr/wp-content/uploads/2021/12/kisspng-node-js-angularjs-react-javascript-npm-node-js-5b28f6115bff48.9101113415294110893768.png" alt="Node JavaScript" width="80"/>  <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F359%2Ffull%2Fexpressjslogo.png&w=384&q=75" alt="JavaScript" width="80"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png" alt="JavaScript" width="80"/>  <img src="https://camo.githubusercontent.com/5f960857e97d73e1dfa406ce5d4bee1797e1ee000a6b29210f077ed8880daecf/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f7365726965732f7371756172655f636f766572732f3030302f3030302f3233312f66756c6c2f4547485f41706f6c6c6f2d4772617068514c2d52656163745f46696e616c2e706e67" alt="JavaScript" width="80"/>  
+
 
 Database
 
