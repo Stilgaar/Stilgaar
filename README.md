@@ -1,4 +1,4 @@
-# Hi, I'm Jeff van Straelen and I'm a FullStack JavaScript developper 
+# Jeff van Straelen - FullStack JavaScript developper 
 
 ## WIP
 
