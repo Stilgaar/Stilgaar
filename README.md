@@ -1,3 +1,3 @@
-# Jeff van Straelen - Js dev
+# Jeff - Js dev
 
 // Add intersting stuff here
